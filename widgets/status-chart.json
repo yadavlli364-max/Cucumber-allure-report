@@ -1,0 +1,1 @@
+[{"uid":"ce02f1f8dbc6014a","name":"Lead to Quote full flow","time":{"start":1776840156363,"stop":1776840255729,"duration":99366},"status":"passed","severity":"normal"},{"uid":"38cb45c448ddfb62","name":"Lead to Quote full flow","time":{"start":1776840255749,"stop":1776840339641,"duration":83892},"status":"broken","severity":"normal"}]
