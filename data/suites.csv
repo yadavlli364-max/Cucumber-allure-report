@@ -1,5 +1,3 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","114784","Create and convert lead","","2026-04-22","passed","2026-04-22","","","",""
-"","119103","Create and convert lead","","2026-04-22","passed","2026-04-22","","","",""
-"","110697","Create and convert lead","","2026-04-22","passed","2026-04-22","","","",""
-"","107288","Create and convert lead","","2026-04-22","passed","2026-04-22","","","",""
+"","90780","Lead to Quote full flow","","2026-04-22","broken","2026-04-22","","","",""
+"","111174","Lead to Quote full flow","","2026-04-22","passed","2026-04-22","","","",""
