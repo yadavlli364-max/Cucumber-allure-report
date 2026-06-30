@@ -1,0 +1,5 @@
+entryType,customerType,firstName,lastName,phone,email,model,businessName
+Walk-in,Private,John,Doe,9876543210,john@test.com,BYD Dolphin,
+Phone,Business,Mike,Ross,9123456789,mike@test.com,BYD Dolphin,ABC Corp
+Walk-in,Business,John,Doe,9876543210,john@test.com,BYD Dolphin,
+Phone,Private,Mike,Ross,9123456789,mike@test.com,BYD Dolphin,ABC Corp
