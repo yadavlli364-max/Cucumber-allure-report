@@ -1,4 +1,2 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","78291","Lead to Quote full flow","","2026-05-05","broken","2026-05-05","","","",""
-"","91923","Lead to Quote full flow","","2026-05-05","passed","2026-05-05","","","",""
-"","82914","Lead to Quote full flow","","2026-05-05","broken","2026-05-05","","","",""
+"","3587","Create and qualify lead","","2026-06-30","passed","2026-06-30","","","",""
